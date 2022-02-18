@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+  background-color: aqua;
+}
+header nav a{
+  padding: 10px;
+}
+#featured-property {
+  text-align: center;
+}
+
+#details{
+  display: flex;
+  background-color: red;
+}
+
+#details div{
+    text-align: center;
+    width: 25%;
+  
+}
